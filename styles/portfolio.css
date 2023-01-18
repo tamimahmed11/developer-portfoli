@@ -72,7 +72,6 @@ main{
 }
 /* about secton style */
 .about{
-            margin-top:130px;
             border-radius:10px;
             background: #fff8f3;
             padding:130px 150px;
@@ -103,4 +102,28 @@ main{
     .info-description{
         font-size: 20px;
         color:#474747;
+    }
+    /* what i do */
+    section{
+        margin-top:130px;
+        text-align: center;
+    }
+    .skill-container{
+        display:flex;
+        gap:24px;
+    }
+    .skil{
+        background:#FFFFFF;
+                box-shadow:0px 6px 50px rgb(0,0,0,0.06);
+                border-radius:5px;
+                padding:30px
+    }
+    .skill-title{
+        font-size: 20px;
+        font-weight:700;
+        margin-top:30px;
+        margin-bottom:20px;
+    }
+    .skill-description{
+        color:#757575;
     }
