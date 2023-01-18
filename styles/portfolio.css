@@ -33,7 +33,7 @@ line-height: 27px;
 nav{
     display:flex;
     justify-content:space-between;
-    margin:50px 200px;
+    padding:50px 200px;
 }
 .nav-title{
     font-weight:800;
@@ -127,3 +127,8 @@ main{
     .skill-description{
         color:#757575;
     }
+        /* Resume style */
+
+
+
+
